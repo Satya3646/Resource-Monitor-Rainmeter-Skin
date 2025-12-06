@@ -20,14 +20,6 @@ A compact Rainmeter widget that displays real-time CPU and RAM usage in a clean,
 
 ---
 
-## Installation
-
-1. Download the `.rmskin` file from Releases or clone the repo into your Rainmeter `Skins` directory.
-2. Refresh Rainmeter.
-3. Load **Resource Monitor** from the Rainmeter manager.
-
----
-
 ## How It Works
 
 The skin uses two built-in Rainmeter measures:
