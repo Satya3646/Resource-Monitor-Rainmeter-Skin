@@ -16,7 +16,7 @@ A compact Rainmeter widget that displays real-time CPU and RAM usage in a clean,
 
 ## Preview
 
-![WhatsApp Image 2025-12-06 at 4 14 16 PM (1)](https://github.com/user-attachments/assets/fd0c4ec6-9d95-4e8f-a24b-bdba3b55928d)
+<img width="270" height="123" alt="Screenshot 2025-12-06 205405" src="https://github.com/user-attachments/assets/7a79df59-9fb2-4136-9a95-8381b08d2275" />
 
 ---
 
@@ -32,6 +32,12 @@ The skin uses two built-in Rainmeter measures:
 
 Both are updated on a 1-second cycle (RAM internally every 20 cycles to reduce noise).
 
+---
+
+## Performance Cost
+The skin is rendered from a single resource_monitor.ini file, keeping overhead minimal.
+Persistent desktop operation typically consumes 10–30 MB RAM, depending on the system, and maintains ~0% CPU usage.
+The runtime footprint is therefore extremely low and imposes no meaningful load on the system.
 ---
 
 ## Customization (Optional)
