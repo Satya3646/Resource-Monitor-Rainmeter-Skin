@@ -16,7 +16,7 @@ A compact Rainmeter widget that displays real-time CPU and RAM usage in a clean,
 
 ## Preview
 
-*(Add screenshot here)*
+<img width="285" height="138" alt="image" src="https://github.com/user-attachments/assets/c8f18d0c-ec65-46f0-8439-26ccfeffa404" />
 
 ---
 
@@ -53,15 +53,3 @@ You may adjust:
 - Bar colors and bar height  
 
 This is optional; the skin works out-of-the-box with the default theme.
-
----
-
-## License
-
-MIT (or whatever you choose)
-
----
-
-## Author
-
-Chittidi Satyanarayana
