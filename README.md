@@ -16,7 +16,7 @@ A compact Rainmeter widget that displays real-time CPU and RAM usage in a clean,
 
 ## Preview
 
-![WhatsApp Image 2025-12-06 at 4 14 16 PM](https://github.com/user-attachments/assets/e8895221-c293-4dcf-abb7-65a63d0ece7f)
+![WhatsApp Image 2025-12-06 at 4 14 16 PM (1)](https://github.com/user-attachments/assets/fd0c4ec6-9d95-4e8f-a24b-bdba3b55928d)
 
 ---
 
