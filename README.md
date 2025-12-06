@@ -38,6 +38,7 @@ Both are updated on a 1-second cycle (RAM internally every 20 cycles to reduce n
 The skin is rendered from a single resource_monitor.ini file, keeping overhead minimal.
 Persistent desktop operation typically consumes 10–30 MB RAM, depending on the system, and maintains ~0% CPU usage.
 The runtime footprint is therefore extremely low and imposes no meaningful load on the system.
+
 ---
 
 ## Customization (Optional)
